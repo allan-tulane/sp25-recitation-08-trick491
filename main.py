@@ -12,6 +12,8 @@ def shortest_shortest_path(graph, source):
       a dict where each key is a vertex and the value is a tuple of
       (shortest path weight, shortest path number of edges). See test case for example.
     """
+
+    
     pq = [(0, 0, source)]  # (total_weight, num_edges, node)
     visited = {}
 
