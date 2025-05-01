@@ -13,7 +13,6 @@ def shortest_shortest_path(graph, source):
       (shortest path weight, shortest path number of edges). See test case for example.
     """
 
-    
     pq = [(0, 0, source)]  # (total_weight, num_edges, node)
     visited = {}
 
@@ -57,8 +56,6 @@ def get_sample_graph():
             'c': {'a', 'd'},
             'd': {}
             }
-
-
     
 def get_path(parents, destination):
     """
