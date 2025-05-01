@@ -2,8 +2,8 @@
 
 ## Answers
 
-**Name:**_________________________
-**Name:**_________________________
+**Name:**____________Patrick Johnson_____________
+**Name:**_____________n/a____________
 
 
 Place all written answers from `recitation-08.md` here for easier grading.
@@ -11,7 +11,7 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 
 - **1b)**
-
+Work: O((V + E) log V).
 
 
 - **2b)**
